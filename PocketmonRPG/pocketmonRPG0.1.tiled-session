@@ -1,0 +1,54 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tutorial_template.tmx",
+    "expandedProjectPaths": [
+    ],
+    "exportAsImage.useCurrentScale": true,
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Collision.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "PocketmonRPG0.1.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tutorial_template.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 387.75,
+                "y": 178.25
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/wamp64/www/School/LJ2/Challenge1/Assets",
+    "last.imagePath": "C:/wamp64/www/School/LJ2/Challenge1/Assets",
+    "map.height": 40,
+    "map.lastUsedExportFilter": "JavaScript map files (*.js)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 12,
+    "map.tileWidth": 12,
+    "map.width": 70,
+    "openFiles": [
+        "PocketmonRPG0.1.tsx",
+        "tutorial_template.tmx",
+        "Collision.tsx"
+    ],
+    "project": "pocketmonRPG0.1.tiled-project",
+    "recentFiles": [
+        "PocketmonRPG0.1.tsx",
+        "Collision.tsx",
+        "tutorial_template.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 12,
+        "width": 12
+    },
+    "tileset.useTransparentColor": true
+}

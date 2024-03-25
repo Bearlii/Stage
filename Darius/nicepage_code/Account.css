@@ -1,0 +1,24 @@
+ .u-section-1 {
+  background-image: linear-gradient(30deg, #2de2e6, #f706cf);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 542px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 500px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 520px;
+  }
+}@font-face {
+  font-family: 'coolveticarg';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/coolveticarg.otf);
+}

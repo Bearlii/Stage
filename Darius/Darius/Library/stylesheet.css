@@ -1,0 +1,99 @@
+body {
+    margin: 0 0 0 0;
+    background: rgb(45, 226, 230);
+    background: linear-gradient(30deg, rgba(45, 226, 230, 1) 0%, rgba(247, 6, 207, 1) 100%);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+#gallery {
+    padding: 0 45px 0 90px;
+    border: solid greenyellow;
+    display: inline-block;
+}
+
+.game {
+    border-top: thick solid purple;
+    border-left: thick solid purple;
+    border-right: thick solid purple;
+    border-radius: 0 50px 0 50px;
+    box-shadow: #303030 7px 7px 7px 0;
+}
+
+#row1 {
+    margin: 0 0 0 0;
+    border: solid red;
+    display: inline-block;
+}
+
+#item1 {
+    float: left;
+    padding: 25px 25px 25px 0;
+}
+
+#item2 {
+    float: left;
+    padding: 25px;
+}
+
+#item3 {
+    float: left;
+    padding: 25px;
+}
+
+#item4 {
+    float: left;
+    padding: 25px 0 25px 25px;
+}
+
+#row2 {
+    margin: 0 0 0 0;
+    border: solid red;
+    display: inline-block;
+}
+
+#item5 {
+    float: left;
+    padding: 25px 25px 25px 0;
+}
+
+#item6 {
+    float: left;
+    padding: 25px;
+}
+
+#item7 {
+    float: left;
+    padding: 25px;
+}
+
+#item8 {
+    float: left;
+    padding: 25px 0 25px 25px;
+}
+
+#row3 {
+    margin: 0 0 0 0;
+    border: solid red;
+    display: inline-block;
+}
+
+#item9 {
+    float: left;
+    padding: 25px 25px 25px 0;
+}
+
+#item10 {
+    float: left;
+    padding: 25px;
+}
+
+#item11 {
+    float: left;
+    padding: 25px;
+}
+
+#item12 {
+    float: left;
+    padding: 25px 0 25px 25px;
+}
